@@ -21,6 +21,7 @@
 #ifndef __CABLES_CABLE_HPP__
 #define __CABLES_CABLE_HPP__
 
+#include <stdint.h>
 #include "json.hpp"
 #include "cables/log.h"
 
